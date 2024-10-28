@@ -6,4 +6,4 @@ __M2 - FTD, Université Paris 1 Panthéon Sorbonne, France__
 __Master Thesis__
 
 
-Ce répertoire contient le rapport final en PDF, les bases de données utilisées ainsi que les programmes Python (fichiers .ipynb) développés pour les obtenir / les traiter. 
+This directory contains the final report in PDF format, the databases used and the Python programs (.ipynb files) developed to obtain/process them.
